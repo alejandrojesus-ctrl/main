@@ -1,0 +1,13 @@
+# Ignorar carpetas de compilación
+build/
+bin/
+out/
+
+# Ignorar archivos temporales de Arduino
+*.pyc
+*.tmp
+*.bak
+
+# Ignorar archivos de configuración local de la IDE
+.vscode/
+.idea/
